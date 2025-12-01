@@ -1,26 +1,27 @@
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/bayu.agustin.94) 
-
 # Hi, I'm Bayu 👋
 
-### I build crypto trading bots & Web3 tools
+I build **crypto trading bots** & **Web3 tools**.
+
+---
+
+## 🌐 Socials
+- [Facebook](https://www.facebook.com/bayu.agustin.94) 
 
 ---
 
 ## 🔧 Tech Stack
-- Python, FastAPI  
-- Web3.js, Solidity  
-- Git, Linux  
+- **Programming & Backend:** Python, FastAPI  
+- **Blockchain & Web3:** Web3.js, Solidity  
+- **Version Control & OS:** Git, Linux  
 
 ---
 
 ## 🚀 Featured Projects
-- [Bybit Bullish Scanner Bot](#)
-- [Crypto Market Analyzer](#)
-- [Auto Trading Strategy Engine](#)
+- **Bybit Bullish Scanner Bot** – Real-time crypto signals bot  
+- **Crypto Market Analyzer** – Market trend & data analysis tool  
+- **Auto Trading Strategy Engine** – Automated trading strategies for crypto  
 
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=default)
+![Bayu's GitHub stats](https://github-readme-stats.vercel.app/api?username=bayu17378&show_icons=true&theme=radical)
